@@ -1,9 +1,8 @@
 # Seat
-A PocketMine-MP (Genisys) plugin that adds seating on stairs to your server
+A GenisysPro plugin that adds seating on stairs to your server
 
-You can sit on stairs by tapping them.
-
-API: [3.0.0, 3.0.1]
+## Description
+You can sit on stairs by tapping them
 
 ## Features:
 * Teleportation to the place from where the player sat on the chair
